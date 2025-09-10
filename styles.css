@@ -1,0 +1,78 @@
+body {
+    margin: 60px;
+    
+    /*
+    Challenge:
+    Find a web safe font you like, and add it 
+    to your card.
+    */
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.avatar {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.card {
+    background-image: url("https://t4.ftcdn.net/jpg/05/40/08/39/360_F_540083917_kSqlgto8gT2OwuTAP7cPfjebGdYY6phf.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: start;
+    text-align: center;
+    color: #2b2839;
+    border-top:6px solid #CADDEE;
+    border-bottom: 5px solid #0A62AE;
+    border-radius: 10px;
+    }
+
+/*
+.customize-list{
+        list-style-type: none; 
+        padding: 0;
+    }
+  
+.custom-list li {
+    padding-left: 500px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: cover;
+}
+
+.linkedin {
+  background-image: url("images/linkedin.png");
+}
+.address {
+  background-image: url("images/address.png");
+}
+.phone {
+  background-image: url("images/phone.png");
+}
+.email {
+  background-image: url("images/email.png");
+}
+*/
+/*
+
+
+
+/*
+Next time goal:
+solve the customerize li tag
+Find other ways you can personalize 
+the design of your business card, e.g.:
+- change the border(s)
+- add border radius
+- shuffle the layout
+- shadows        
+- hover effects  
+- animations     
+*/
+
